@@ -1,0 +1,74 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    font-family: sans-serif;
+    border: 2px solid;   
+}
+header{
+    border: 2px solid;
+    padding-bottom: 90px;
+    background-color:lightgray;
+}
+.prodect{
+    
+    
+
+}
+.list{
+    float: right;
+    padding-right: 50px;   
+}
+/*.prodect2{
+    clear: both;
+
+}*/
+ol{
+    margin-left: 40px;
+}
+ul{
+    margin-left: 40px;
+}
+.rip{
+    background-color: blue;
+}
+article{
+    width: 450px;
+    background-color: bisque;
+    float: left;
+}
+aside{
+    
+    margin-left: 500px;
+}
+.DAD{
+    border: 2px solid;
+    padding:50px 0 50px 50px;
+    margin:15px 15px 30px 0;
+    font-size: 25px;
+    background-color: lightgoldenrodyellow;
+
+    
+    
+}
+.mom{
+    border: 2px solid;
+    padding:50px 0 50px 50px;
+    margin:15px 15px 25px 0;
+    background-color: lightgoldenrodyellow;
+}
+marquee{
+    border: 2px solid;
+}
+.WHAT{
+    padding-bottom: 0px;
+    margin-bottom: 20px;
+}
+.WHY{
+    padding-bottom: 0px;
+    margin-bottom: 20px;
+}
+
+
+
